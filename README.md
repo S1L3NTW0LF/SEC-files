@@ -6,4 +6,5 @@ The objective of the project:
 2. and build a dataframe
 3. then build and test financial models using machine learning
 
-The hope is to build something that be used in real life to trade stocks. 
+The hope is to build something that can be used in real life to trade stocks. 
+
