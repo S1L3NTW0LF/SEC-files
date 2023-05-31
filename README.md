@@ -1,5 +1,5 @@
 # SEC Files
-#### Transforms / prepares financial statement data from the Securities and Exchange Commission for machine learning
+#### Transforms / prepares financial statement data from the Securities and Exchange Commission for analysis
 ---
 
 **DATA** (json files ~1.1G and ~1.2G respectively)
