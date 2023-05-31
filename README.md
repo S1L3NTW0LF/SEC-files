@@ -31,3 +31,5 @@
 - some files / folders are too large and have been added as zip files or not add at all (`submissions`, `companyfacts`, `assembled-data`)
 - the `samples` folder contains a singular file from certain folders (`submissions`, `companyfacts`, `company-fin-sets`, `yearly-fin-sets`, `assembled-data`)
 - files in `yearly-fin-sets` and `master-df.csv` have the column names stored in `columns.csv` (do not change order)
+- processed data (everything except `submissions`, `companyfacts`) excludes financial data that does not follow US-GAAP taxonomy
+- `companyfacts` files that are not in US-GAAP taxonomy will show up in `assemble-key-errors.csv`
