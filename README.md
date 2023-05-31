@@ -14,7 +14,7 @@
 ### Brief Description
 #### Part I (assembles-data.ipynb)
 1. finds all filings for annual financial statements (identified as 10-K) from `submissions` folder
-2. pulls financial numbers for those filings (identifed using accn) from `companyfacts` and writes them to `assembled-data` 
+2. pulls financial numbers for those filings from `companyfacts` and writes them to `assembled-data` 
 
 #### Part II (company-csv.ipynb)
 1. writes csv files that contain all financial statements for a single company to `company-fin-sets`
