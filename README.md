@@ -1,4 +1,4 @@
-# sec_files
+# SEC Files
 #### Transforms / prepares financial statement data from the Securities and Exchange Commission (SEC.gov) for machine learning
 ---
 
