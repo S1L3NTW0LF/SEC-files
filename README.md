@@ -1,12 +1,12 @@
 # SEC Files
-#### Transforms / prepares financial statement data from the Securities and Exchange Commission (SEC.gov) for machine learning
+#### Transforms / prepares financial statement data from the Securities and Exchange Commission for machine learning
 ---
 
 **DATA** (json files ~1.1G and ~1.2G respectively)
 - recent filings: https://www.sec.gov/Archives/edgar/daily-index/bulkdata/submissions.zip      
 - financial numbers: https://www.sec.gov/Archives/edgar/daily-index/xbrl/companyfacts.zip      
 
-**SEC** Website: https://www.sec.gov/edgar/sec-api-documentation
+**SEC Website**: https://www.sec.gov/edgar/sec-api-documentation
 - contains more information on the data
 - same links as above are located at bottom of webpage as of 2023-05
 
@@ -25,5 +25,5 @@
 
 ---
 ### Notes
-- some files / folders are too large and have been added as zip files
-- the `samples` folder contains a singular file from certain folders `(submissions`, `companyfacts`, `company-fin-sets`, `yearly-fin-sets`)
+- some files / folders are too large and have been added as zip files or not add at all (`submissions`, `companyfacts`, `assembled-data`)
+- the `samples` folder contains a singular file from certain folders (`submissions`, `companyfacts`, `company-fin-sets`, `yearly-fin-sets`, `assembled-data`)
