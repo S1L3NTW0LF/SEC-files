@@ -7,7 +7,7 @@
 - financial numbers: https://www.sec.gov/Archives/edgar/daily-index/xbrl/companyfacts.zip      
 
 **SEC Website**: https://www.sec.gov/edgar/sec-api-documentation
-- contains more information on data
+- contains more information on data in submissions.zip and companyfacts.zip
 - same links as above are located at bottom of webpage as of 2023-05
 
 ---
